@@ -1,0 +1,26 @@
+    li {
+        color:  rgb(187, 181, 181) ;
+        margin: 30px;
+        display: inline;
+        justify-content: right;
+        padding-left: 400px;
+    }
+
+h1{
+    font-size: 70px;
+}
+button :hover{
+    background-color: aqua;
+    font-size: 70px;
+
+}
+.box{
+    height: 200px;
+    width: 200px;
+    color: rgb(226, 105, 105);
+    border: solid 30px;
+    border-radius: 30px;
+    margin-left: 200px;
+    box-shadow: 20px 30px 20px rgb(92, 122, 92);
+
+}
